@@ -6,6 +6,9 @@
 * Natural Language Process ашиглан:
   * Online store-д хэрэглэгчдэд бараа санал болгох
   * Олон хэл дээр асуулт-ажилбар систем үүсгэх
+* AI deer suurilsan practic heregleenii hel surah test belduuleh bolomjtoi app, website.
+  * ymar negen durem, ugnii heregleed asuudaad tailbarluulna uunii daraa hreeglegch tuhain hereglesen durem ugee bodot heregleend turshih baidlaar test hiine(oor zuil baij boolno). 
+  * Tuhain durem, ugnii heregleegee odor tutamd repeat baidlaar tohiruulaad sanuulga avch tuhain sanuulasn uydee dain davtan hiigeed baih bolomjtoi baina.
 
 ---
 
